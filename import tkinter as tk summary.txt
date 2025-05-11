@@ -1,0 +1,51 @@
+sudo apt update && sudo apt upgrade -y
+
+
+
+python3 -m pip --version
+
+
+
+sudo apt install python3-pip -y
+
+
+
+pip3 install customtkinter
+
+
+pip3 install Pillow
+
+
+
+sudo apt install python3-tk -y
+
+
+
+pip3 install opencv-python
+
+
+python3
+
+
+
+
+import tkinter as tk
+from tkinter import ttk, messagebox
+import customtkinter
+import cv2
+from PIL import Image, ImageTk
+import threading
+
+
+
+pip3 install --upgrade pip
+
+
+sudo apt install python3-tk -y
+
+
+
+sudo apt install libhdf5-dev libhdf5-serial-dev libqtwebkit4 libqt4-test libatlas-base-dev -y
+
+
+python3 test_ui.py
